@@ -26,4 +26,3 @@ The production logic filters out items the specific account has already historic
 * **The Cold-Start Problem:** Designing business fallback frameworks (such as trending charts or onboarding preference maps) for new accounts lacking historical transaction rows.
 =======
 * **The Cold-Start Problem:** Designing business fallback frameworks (such as trending charts or onboarding preference maps) for new accounts lacking historical transaction rows.
->>>>>>> 867251c0c8fb8cfeab2dfbc3bc9eaceb462bad87
