@@ -24,5 +24,5 @@ The production logic filters out items the specific account has already historic
 * **Latent Feature Engineering:** Transitioning away from manual descriptive labels into mathematically discovered behavioral features.
 
 * **The Cold-Start Problem:** Designing business fallback frameworks (such as trending charts or onboarding preference maps) for new accounts lacking historical transaction rows.
-=======
+
 * **The Cold-Start Problem:** Designing business fallback frameworks (such as trending charts or onboarding preference maps) for new accounts lacking historical transaction rows.
