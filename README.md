@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+# product_recommendation_engine
+A collaborative filtering product recommendation system utilizing Truncated Singular Value Decomposition (SVD) matrix factorization to predict user-product rating matches across sparse transactional tables.
+
+>>>>>>> 867251c0c8fb8cfeab2dfbc3bc9eaceb462bad87
 # Collaborative Filtering Product Recommendation Engine via Truncated SVD
 
 This repository contains an end-to-end matrix factorization pipeline built from scratch to address the **Sparsity Trap** in user-item transactional databases. It utilizes Singular Value Decomposition (SVD) to project highly sparse interaction tracking grids into dense latent-feature embeddings, outputting precise consumer purchase match rankings.
@@ -19,4 +25,8 @@ The production logic filters out items the specific account has already historic
 ## Core Data Science Concepts Addressed
 * **The Sparsity Trap:** Quantifying and handling empty historical intersections ($77.8\%$ structural sparsity in simulation).
 * **Latent Feature Engineering:** Transitioning away from manual descriptive labels into mathematically discovered behavioral features.
+<<<<<<< HEAD
 * **The Cold-Start Problem:** Designing business fallback frameworks (such as trending charts or onboarding preference maps) for new accounts lacking historical transaction rows.
+=======
+* **The Cold-Start Problem:** Designing business fallback frameworks (such as trending charts or onboarding preference maps) for new accounts lacking historical transaction rows.
+>>>>>>> 867251c0c8fb8cfeab2dfbc3bc9eaceb462bad87
