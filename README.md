@@ -1,6 +1,4 @@
-HEAD
-=======
-# product_recommendation_engine
+# Product Recommendation Engine
 A collaborative filtering product recommendation system utilizing Truncated Singular Value Decomposition (SVD) matrix factorization to predict user-product rating matches across sparse transactional tables.
 
 # Collaborative Filtering Product Recommendation Engine via Truncated SVD
