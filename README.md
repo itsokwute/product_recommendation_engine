@@ -22,7 +22,7 @@ The production logic filters out items the specific account has already historic
 ## Core Data Science Concepts Addressed
 * **The Sparsity Trap:** Quantifying and handling empty historical intersections ($77.8\%$ structural sparsity in simulation).
 * **Latent Feature Engineering:** Transitioning away from manual descriptive labels into mathematically discovered behavioral features.
-<<<<<<< HEAD
+
 * **The Cold-Start Problem:** Designing business fallback frameworks (such as trending charts or onboarding preference maps) for new accounts lacking historical transaction rows.
 =======
 * **The Cold-Start Problem:** Designing business fallback frameworks (such as trending charts or onboarding preference maps) for new accounts lacking historical transaction rows.
